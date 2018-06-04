@@ -1,8 +1,4 @@
 #!/usr/bin/python
-#
-# Brainfuck Interpreter
-# Copyright 2011 Sebastian Kaspari
-#
 # Usage: ./brainfuck.py [FILE]
 
 import sys
